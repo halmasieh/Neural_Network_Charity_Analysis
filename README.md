@@ -2,7 +2,7 @@
 
 ## Project Overview
 A neural network is a powerful machine learning technique that is modeled after neurons in the brain.
-Neural networks can drive the performance of the robust and statistical algorithms without having worry about any statistical theory. Because of that, neural network is one of the high demand skills for any data scientist. We explore and implement neural networks using the TensorFlow platform in Python to design neural networks, consider the effectiveness of the neural network for the dataset and perform the performance of the neural network. Finally, we store and retrieve trained models for more robust uses.
+Neural networks can drive the performance of the robust and statistical algorithms without having worry about any statistical theory. Because of that, neural network is one of the high demand skills for any data scientist. We explore and implement neural networks using the TensorFlow platform in Python, consider the effectiveness of the neural network for the dataset and perform the performance of the neural network. Finally, we store and retrieve trained models for more robust uses.
 However, we spent most of our time for preparing data. 
 
 Infact, we create a deep learning neural network to analyze and classify the success of charitable donations which can be done as the following steps: 
