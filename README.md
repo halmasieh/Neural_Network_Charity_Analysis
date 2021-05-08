@@ -122,21 +122,16 @@ Therefore, the model is optimized, and the predictive accuracy is increased to o
 
 ## Summary
 
-
-
-
-
-
-
-
-
 We summarize this analysis as below:
 
-1- Preprocess the dataset in order to perform PCA in step 2, using Pandas.
+1- We preprocessed the dataset in order to compile, train, and evaluate the neural network model, using Pandas and the Scikit-Learn’s StandardScaler(),  
 
-2- Reduce the dimensions of the X DataFrame to three principal components and place these dimensions in a new DataFrame,  using the Principal Component Analysis (PCA) algorithm.
+2- We designed a neural network, or deep learning model, to create a binary classification model that can predict if an Alphabet Soup–funded organization would be successful based on the features in the dataset, using TensorFlow. 
 
+3- We needed to think about how many inputs there are before determining the number of neurons and layers in your model. 
+Once we have completed that step, then we compiled, trained, and evaluated our binary classification model to calculate the model’s loss and accuracy.
 
+4- We optimized our model in order to achieve a target predictive accuracy higher than 75% an dthat was achieved.
 
 
 
