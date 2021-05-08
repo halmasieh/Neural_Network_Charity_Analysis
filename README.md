@@ -50,7 +50,7 @@ We droped the non-beneficial ID columns (variables) "EIN" and "NAME" and these v
 
 
 
-<img src="https://github.com/halmasieh/Neural_Network_Charity_Analysis/blob/main/Resources/Droped%20columns.PNG" width="500" height="400"/>
+<img src="https://github.com/halmasieh/Neural_Network_Charity_Analysis/blob/main/Resources/Droped%20columns.PNG" width="500" height="500"/>
 
 
 
