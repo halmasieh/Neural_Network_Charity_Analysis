@@ -47,7 +47,7 @@ We droped the non-beneficial ID columns (variables) "EIN" and "NAME" and these v
 
 
 
-<img src="https://github.com/halmasieh/Neural_Network_Charity_Analysis/blob/main/Resources/Droped%20columns.PNG" width="500" height="600"/>
+<img src="https://github.com/halmasieh/Neural_Network_Charity_Analysis/blob/main/Resources/Droped%20columns.PNG" width="500" height="500"/>
 
 
 
@@ -60,7 +60,7 @@ As shown in the following
 
 
 
-<img src="https://github.com/halmasieh/Neural_Network_Charity_Analysis/blob/main/Resources/Model%201.PNG" width="500" height="600"/>
+<img src="https://github.com/halmasieh/Neural_Network_Charity_Analysis/blob/main/Resources/Model%201.PNG" width="500" height="500"/>
 
 
 
@@ -94,7 +94,7 @@ In order to increase the accuracy of the model, we perform the following steps i
 
 
 
-<img src="https://github.com/halmasieh/Neural_Network_Charity_Analysis/blob/main/Resources/Model%202.PNG" width="500" height="600"/>
+<img src="https://github.com/halmasieh/Neural_Network_Charity_Analysis/blob/main/Resources/Model%202.PNG" width="500" height="500"/>
 
 
 
