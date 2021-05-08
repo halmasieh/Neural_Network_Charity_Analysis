@@ -75,7 +75,7 @@ The loss and accuracy for the model are obtaind as follow:
 
 
 
-<img src="https://github.com/halmasieh/Neural_Network_Charity_Analysis/blob/main/Resources/loss-accuracy-model1.PNG" width="500" height="600"/>
+<img src="https://github.com/halmasieh/Neural_Network_Charity_Analysis/blob/main/Resources/loss-accuracy-model1.PNG"/>
 
 
 
