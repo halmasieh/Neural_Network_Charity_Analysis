@@ -45,11 +45,12 @@ We consider all the columns after droping the taget variable "IS_SUCCESSFUL".
 
 
 3- What variable(s) are neither targets nor features, and should be removed from the input data?
+
 We droped the non-beneficial ID columns (variables) "EIN" and "NAME" and these variables are neither targets nor features.
 
 
 
-<img src="https://github.com/halmasieh/Neural_Network_Charity_Analysis/blob/main/Resources/Droped%20columns.PNG" width="500" height="500"/>
+<img src="https://github.com/halmasieh/Neural_Network_Charity_Analysis/blob/main/Resources/Droped%20columns.PNG" width="500" height="400"/>
 
 
 
