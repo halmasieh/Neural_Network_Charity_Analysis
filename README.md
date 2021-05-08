@@ -47,7 +47,7 @@ We droped the non-beneficial ID columns (variables) "EIN" and "NAME" and these v
 
 
 
-<img src="https://github.com/halmasieh/Neural_Network_Charity_Analysis/blob/main/Resources/Droped%20columns.PNG" width="300" height="400"/>
+<img src="https://github.com/halmasieh/Neural_Network_Charity_Analysis/blob/main/Resources/Droped%20columns.PNG" width="500" height="600"/>
 
 
 
@@ -60,7 +60,7 @@ As shown in the following
 
 
 
-<img src="https://github.com/halmasieh/Neural_Network_Charity_Analysis/blob/main/Resources/Model%201.PNG" width="300" height="400"/>
+<img src="https://github.com/halmasieh/Neural_Network_Charity_Analysis/blob/main/Resources/Model%201.PNG" width="500" height="600"/>
 
 
 
@@ -75,7 +75,7 @@ The loss and accuracy for the model are obtaind as follow:
 
 
 
-<img src="https://github.com/halmasieh/Neural_Network_Charity_Analysis/blob/main/Resources/loss-accuracy-model1.PNG" width="300" height="400"/>
+<img src="https://github.com/halmasieh/Neural_Network_Charity_Analysis/blob/main/Resources/loss-accuracy-model1.PNG" width="500" height="600"/>
 
 
 
@@ -94,7 +94,7 @@ In order to increase the accuracy of the model, we perform the following steps i
 
 
 
-<img src="" width="300" height="400"/>
+<img src="https://github.com/halmasieh/Neural_Network_Charity_Analysis/blob/main/Resources/Model%202.PNG" width="500" height="600"/>
 
 
 
@@ -108,7 +108,7 @@ Therefore, the model is optimized, and the predictive accuracy is increased to o
 
 
 
-<img src="https://github.com/halmasieh/Neural_Network_Charity_Analysis/blob/main/Resources/loss-accuracy-model2.PNG" width="300" height="400"/>
+<img src="https://github.com/halmasieh/Neural_Network_Charity_Analysis/blob/main/Resources/loss-accuracy-model2.PNG"/>
 
 
 
