@@ -84,7 +84,7 @@ The loss and accuracy for the model are obtaind as follow:
 
 
 
-It seems that the model does not have a high accuracy. It is very likely that by manipulating the data set and changing the number of neurons, layers and activation function, we may achieve a higher accuracy.
+It seems that the model does not have a high accuracy. It is very likely that by manipulating the dataset and changing the number of neurons, layers and activation function, we may achieve a higher accuracy.
 
 3- What steps did you take to try and increase model performance?
 In order to increase the accuracy of the model, we perform the following steps in the AlphabetSoupCharity - Optimization:
