@@ -46,7 +46,7 @@ We consider all the columns after droping the taget variable "IS_SUCCESSFUL".
 
 3- What variable(s) are neither targets nor features, and should be removed from the input data?
 
-We droped the non-beneficial ID columns (variables) "EIN" and "NAME" and these variables are neither targets nor features.
+We dropped the non-beneficial ID columns (variables) "EIN" and "NAME" and these variables are neither targets nor features.
 
 
 
