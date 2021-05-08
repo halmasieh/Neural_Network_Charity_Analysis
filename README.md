@@ -17,7 +17,7 @@ Software: [Jupyter Notebook](https://www.anaconda.com/products/individual)
 library: Pandas, Sklearn and Tensorflow
 
 ## Results
-We create and optimize a deep learning model to analyze and classify the success of charitable donations. So we address the following questions and answers:  
+We create and optimize a deep learning model to analyze and classify the success of charitable donations. So we address the following questions:  
 
 ### Data Preprocessing
 1- What variable(s) are considered the target(s) for your model?
