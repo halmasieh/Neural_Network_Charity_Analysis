@@ -59,7 +59,7 @@ We dropped the non-beneficial ID columns (variables) "EIN" and "NAME" and these 
 ### Compiling, Training, and Evaluating the Model
 1- How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
-As shown in the following 
+As shown in the following: 
 
 
 
