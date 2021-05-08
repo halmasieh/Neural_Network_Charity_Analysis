@@ -21,6 +21,7 @@ We create and optimize a deep learning model to analyze and classify the success
 
 ### Data Preprocessing
 1- What variable(s) are considered the target(s) for your model?
+
 The taget variable is the values of the the array with the name "IS_SUCCESSFUL". 
 
 
@@ -32,6 +33,7 @@ The taget variable is the values of the the array with the name "IS_SUCCESSFUL".
 
 
 2- What variable(s) are considered to be the features for your model?
+
 We consider the features all the columns after droping the taget variable "IS_SUCCESSFUL". 
 
 
