@@ -69,7 +69,7 @@ As shown in the following:
 
 
 We have considered 2 dense layer with ( neurons=80 , activation=tanh) and ( neurons=30 , activation=tanh), repectively. 
-In fact, according to researchers on deep learning, chooing three layers would be  good enough for the most of neural network models. The number of neurons is predetermined for each layer. The activation functions are selected in order to obtain higher aacuracy model. In the output layer, the sigmoid function has a characteristic “S” — shaped curve which transforms the output between the range 0 and 1 an dit would be effective for the probability obtained in the binary classification.
+In fact, according to researchers on deep learning, chooing three layers would be  good enough for the most of neural network models. The number of neurons is predetermined for each layer. The activation functions are selected in order to obtain higher aacuracy model. In the output layer, the sigmoid function has a characteristic “S” — shaped curve which transforms the output between the range 0 and 1 and it would be effective for the probability obtained in the binary classification.
 
 2- Were you able to achieve the target model performance?
 
