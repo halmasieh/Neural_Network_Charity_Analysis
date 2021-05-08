@@ -131,7 +131,7 @@ We summarize this analysis as below:
 3- We needed to think about how many inputs there are before determining the number of neurons and layers in our model. 
 Once we have completed that step, then we compiled, trained, and evaluated our binary classification model to calculate the model’s loss and accuracy.
 
-4- We optimized our model in order to achieve a target predictive accuracy higher than 75% an dthat was achieved.
+4- We optimized our model in order to achieve a target predictive accuracy higher than 75% and that goal was achieved.
 
 
 
