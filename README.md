@@ -36,7 +36,7 @@ We consider the features all the columns after droping the taget variable "IS_SU
 
 
 
-<img src="" width="300" height="400"/>
+<img src="https://github.com/halmasieh/Neural_Network_Charity_Analysis/blob/main/Resources/Features.PNG" width="300" height="400"/>
 
 
 
