@@ -87,7 +87,7 @@ It seems that the model does not have a high accuracy. It is very likely that by
 In order to increase the accuracy of the model, we perform the following steps in the AlphabetSoupCharity - Optimization:
 
 - Keep the feature "NAME" and  add a bin "other" for the value counts less than 5 words
-- Increase the the number of values for each bin created for the value counts APPLICATION_TYPE 
+- Increase the the number of values for the created bin of the value counts APPLICATION_TYPE 
 - Use different activation function in the first and second hidden layer
 - Change the number of neurons in the the first and second layer and add the third layer with 20 neurons as shown below:
 
