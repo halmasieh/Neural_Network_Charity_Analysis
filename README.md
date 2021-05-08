@@ -128,7 +128,7 @@ We summarize this analysis as below:
 
 2- We designed a neural network, or deep learning model, to create a binary classification model that can predict if an Alphabet Soup–funded organization would be successful based on the features in the dataset, using TensorFlow. 
 
-3- We needed to think about how many inputs there are before determining the number of neurons and layers in your model. 
+3- We needed to think about how many inputs there are before determining the number of neurons and layers in our model. 
 Once we have completed that step, then we compiled, trained, and evaluated our binary classification model to calculate the model’s loss and accuracy.
 
 4- We optimized our model in order to achieve a target predictive accuracy higher than 75% an dthat was achieved.
