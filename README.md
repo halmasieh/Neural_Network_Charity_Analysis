@@ -25,7 +25,7 @@ The taget variable is the values of the the array with the name "IS_SUCCESSFUL".
 
 
 
-<img src="" width="300" height="400"/>
+<img src="https://github.com/halmasieh/Neural_Network_Charity_Analysis/blob/main/Resources/y%20variable.PNG"/>
 
 
 
@@ -36,7 +36,7 @@ We consider the features all the columns after droping the taget variable "IS_SU
 
 
 
-<img src="https://github.com/halmasieh/Neural_Network_Charity_Analysis/blob/main/Resources/Features.PNG" width="300" height="400"/>
+<img src="https://github.com/halmasieh/Neural_Network_Charity_Analysis/blob/main/Resources/Features.PNG"/>
 
 
 
