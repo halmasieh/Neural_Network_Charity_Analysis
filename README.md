@@ -6,7 +6,7 @@ Neural networks can drive the performance of the robust and statistical algorith
 However, we spent most of our time for preparing data. 
 
 Infact, we create a deep learning neural network to analyze and classify the success of charitable donations which can be done as the following steps: 
- - prepare input data
+ - Prepare input data
  - Create Deep Learning models
  - Design, train, evaluate, and export neural networks
  
