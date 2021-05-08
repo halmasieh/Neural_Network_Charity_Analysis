@@ -75,7 +75,7 @@ The loss and accuracy for the model are obtaind as follow:
 
 
 
-<img src="" width="300" height="400"/>
+<img src="https://github.com/halmasieh/Neural_Network_Charity_Analysis/blob/main/Resources/loss-accuracy-model1.PNG" width="300" height="400"/>
 
 
 
@@ -89,8 +89,29 @@ In order to increase the accuracy of the model, we perform the following steps i
 - Keep the feature "NAME" and  add a bin "other" for the value counts less than 5 words
 - Increase the the number of values for each bin created for the value counts APPLICATION_TYPE 
 - Use different activation function in the first and second hidden layer
-- Change the number of neurons in the the first and second layer and add the third layer with 20 neurons
-- Keep the number of epochs to the training regimen
+- Change the number of neurons in the the first and second layer and add the third layer with 20 neurons as shown below:
+
+
+
+
+<img src="" width="300" height="400"/>
+
+
+
+
+
+
+- Keep the number of epochs to the training regimen 
+
+Therefore, the model is optimized, and the predictive accuracy is increased to over 75% as below:
+
+
+
+
+<img src="" width="300" height="400"/>
+
+
+
 
 
 ## Summary
