@@ -108,7 +108,7 @@ Therefore, the model is optimized, and the predictive accuracy is increased to o
 
 
 
-<img src="" width="300" height="400"/>
+<img src="https://github.com/halmasieh/Neural_Network_Charity_Analysis/blob/main/Resources/loss-accuracy-model2.PNG" width="300" height="400"/>
 
 
 
