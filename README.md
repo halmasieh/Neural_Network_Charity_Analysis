@@ -34,7 +34,7 @@ The taget variable is the values of the the array with the name "IS_SUCCESSFUL".
 
 2- What variable(s) are considered to be the features for your model?
 
-We consider the features all the columns after droping the taget variable "IS_SUCCESSFUL". 
+We consider all the columns after droping the taget variable "IS_SUCCESSFUL". 
 
 
 
