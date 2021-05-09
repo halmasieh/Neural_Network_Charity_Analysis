@@ -63,7 +63,7 @@ As shown in the following:
 
 
 
-<img src="https://github.com/halmasieh/Neural_Network_Charity_Analysis/blob/main/Resources/Model%201.PNG" width="400" height="500"/>
+<img src="https://github.com/halmasieh/Neural_Network_Charity_Analysis/blob/main/Resources/Model%201.PNG" />
 
 
 
@@ -101,7 +101,7 @@ In order to increase the accuracy of the model, we perform the following steps i
 
 
 
-<img src="https://github.com/halmasieh/Neural_Network_Charity_Analysis/blob/main/Resources/Model%202.PNG" width="500" height="500"/>
+<img src="https://github.com/halmasieh/Neural_Network_Charity_Analysis/blob/main/Resources/Model%202.PNG"/>
 
 
 
